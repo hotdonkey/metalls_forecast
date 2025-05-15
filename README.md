@@ -1,4 +1,4 @@
-# Project 8. Timeseries predictor
+# Project Metallitics Insight. Timeseries predictor
 
 ## Table of content
 [1. Project description and dataset link](README.md#Project-description)  
